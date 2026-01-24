@@ -1,0 +1,14 @@
+streamlit
+requests
+fastapi
+uvicorn
+numpy
+pydantic
+pandas
+yfinance
+scikit-learn
+tensorflow
+tf_keras
+scipy
+plotly
+altair
