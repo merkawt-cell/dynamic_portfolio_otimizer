@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # API Configuration
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "http://localhost:8501"
 
 # Available ETFs with metadata
 ETF_DATA = {
